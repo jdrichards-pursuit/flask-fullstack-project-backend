@@ -1,4 +1,4 @@
-# FLASK API PROJECT
+# Flask Fullstack Project - Backend
 
 ## Project Description
 
